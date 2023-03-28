@@ -1,0 +1,6 @@
+## Interface: 30300
+## SavedVariablesPerCharacter: CharacterNote
+## SavedVariables: GlobalNote
+
+CharacterNotes.lua
+GlobalNote.lua
